@@ -7,6 +7,6 @@ Nous garantissons de maintenir vos applications (inclus de base) ainsi qu'un ser
 
 Contact : 04 72 85 38 50 . contact@familytech.com | contact@kidmanager.com . 7 Rue Jean-Marie Leclair, 69009 Lyon
 
-©FamilyTech
-
 Projet d'école - EPSI B3 FULLSTACK 2022 - Créer une application d'aide parentale
+
+©FamilyTech
